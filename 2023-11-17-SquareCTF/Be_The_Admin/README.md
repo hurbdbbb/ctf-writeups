@@ -25,6 +25,7 @@ By passing the session cookie into a base64 decoder, we observe that its says : 
 
 By encoding "Admin" into a base64 string, we get : "QWRtaW4"
 We changed the session cookie with this value and refreshed the Admin page. The web page now shows the flag :
+
 ![flag](https://github.com/Pink-Balloon-Eternal/ctf-writeups/assets/78924080/bc9d15f6-9db5-47ba-9e41-df9085d14f63)
 
 Flag : **flag{boyireallyhopenobodyfindsthis!!}**

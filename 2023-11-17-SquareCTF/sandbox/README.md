@@ -15,7 +15,7 @@ I "made" "a" "python" "sandbox" """"
 
 4. Run the python sandbox : ```python3 sandbox.py```
 
-5. Display the flag
+5. Write this python code to display the flag :
 
 ```python3
 f = open("flag.txt", "r")

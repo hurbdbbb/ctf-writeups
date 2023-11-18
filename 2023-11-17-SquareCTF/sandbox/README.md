@@ -17,7 +17,7 @@ I "made" "a" "python" "sandbox" """"
 
 5. Display the flag
 
-```
+```python3
 f = open("flag.txt", "r")
 print(f.read())
 ```

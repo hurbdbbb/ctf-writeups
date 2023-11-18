@@ -8,12 +8,15 @@ http://184.72.87.9:8013
 ## Solution
 
 Here is the home page of the website :
+
 ![home_page](https://github.com/Pink-Balloon-Eternal/ctf-writeups/assets/78924080/6a3e1f73-4e63-467a-8232-985fb77931c4)
 
 By going to the CTF Participant web page we have this :
+
 ![CTF_participant_page](https://github.com/Pink-Balloon-Eternal/ctf-writeups/assets/78924080/2d8a0900-a765-48e5-af9b-237ef378def2)
 
 And by going to the Admin web page we see this :
+
 ![admin_page](https://github.com/Pink-Balloon-Eternal/ctf-writeups/assets/78924080/ed261657-093c-4c6e-8460-acab9ddd331c)
 
 According to the problem statement and what we can see on the website, we could think that the flag is the secret of the Admin and that we have to be the admin to see the secret. But how ?

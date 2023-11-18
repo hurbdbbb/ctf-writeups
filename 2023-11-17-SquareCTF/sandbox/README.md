@@ -7,16 +7,22 @@ I "made" "a" "python" "sandbox" """"
 
 ## Solution
 
-Connect to the remote server
+1. Connect to the remote server
+
 ```nc 184.72.87.9 8008```
-List the content of the files
+2. List the content of the files
+
 ```ls```
-We can see the following files in the remote server : ```flag.txt```  ```sandbox.py```
-Run the python sandbox
+
+3. We can see the following files in the remote server : ```flag.txt```  ```sandbox.py```
+
+4. Run the python sandbox
 ```python3 sandbox.py```
-Display the flag
+
+5. Display the flag
 ```
 f = open("flag.txt", "r")
 print(f.read())
 ```
+
 The flag is : **flag{did_you_use_ifs_or_python_let_me_know_down_in_the_comments}**

@@ -10,6 +10,7 @@ I "made" "a" "python" "sandbox" """"
 1. Connect to the remote server
 
 ```nc 184.72.87.9 8008```
+
 2. List the content of the files
 
 ```ls```
@@ -17,9 +18,11 @@ I "made" "a" "python" "sandbox" """"
 3. We can see the following files in the remote server : ```flag.txt```  ```sandbox.py```
 
 4. Run the python sandbox
+
 ```python3 sandbox.py```
 
 5. Display the flag
+
 ```
 f = open("flag.txt", "r")
 print(f.read())

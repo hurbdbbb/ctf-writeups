@@ -153,6 +153,8 @@ func main() {
 
 Our goal is to retrieve the password of skat from the MySQL database.
 
+gg
+
 We can see that the SQL query that is used when we try to login is the following:
 
 ```SELECT * FROM users WHERE username = \"%s\" AND password = \"%s\"```
